@@ -1,0 +1,23 @@
+var config = {
+  "greeting": "Ello",
+  "name": "",
+  "greetingText": "I really like you btw please don't tell  :p",
+  "wishText": " Happy birthday cicer yana!!!",
+  "imagePath": "img/Mak1.jpeg",
+  "text1": "It's your birthday!!! :p",
+  "textInChatBox": "Selamat hari jadi mak, terima kasih sebab besarkan adik...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then,I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "CUTE",
+  "text5Entry": "Sebab,",
+  "text5Content": "Mak kan suka benda cute.",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday mak  !!!",
+  "outroText": "Tunggu adik kaya nanti adik belanja mak apa-apa mak nak",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+};
