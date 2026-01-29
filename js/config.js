@@ -3,7 +3,7 @@ var config = {
   "name": "Mak",
   "greetingText": "I really like you btw please don't tell Saqiena :p",
   "wishText": " Insha Allah your journey shall be filled with success, happiness, and endless blessings.",
-  "imagePath": "img/Mak1.jpeg",
+  "imagePath": "img/Mak.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! and to many more blah blah ...",
   "sendButtonLabel": "Send",
